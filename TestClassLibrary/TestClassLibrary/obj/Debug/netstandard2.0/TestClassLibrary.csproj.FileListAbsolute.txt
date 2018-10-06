@@ -1,0 +1,9 @@
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\bin\Debug\netstandard2.0\TestClassLibrary.deps.json
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\bin\Debug\netstandard2.0\TestClassLibrary.dll
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\obj\Debug\netstandard2.0\TestClassLibrary.csprojAssemblyReference.cache
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\obj\Debug\netstandard2.0\TestClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\obj\Debug\netstandard2.0\TestClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\obj\Debug\netstandard2.0\TestClassLibrary.AssemblyInfo.cs
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\bin\Debug\netstandard2.0\TestClassLibrary.pdb
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\obj\Debug\netstandard2.0\TestClassLibrary.dll
+C:\Users\Mark Hingston\source\repos\TestClassLibrary\TestClassLibrary\obj\Debug\netstandard2.0\TestClassLibrary.pdb
